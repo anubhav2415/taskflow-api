@@ -369,6 +369,11 @@ Use BullMQ (Redis-backed) for async jobs:
 
 ---
 
+
+Swagger UI → localhost:5000/api/docs
+Dashboard → localhost:5173
+Users Admin panel → localhost:5173 (click Users in sidebar)
+
 ## 👤 Author
 
 **Anubhav** — B.Tech Chemical Engineering, MMMUT  
